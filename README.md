@@ -1,1 +1,1 @@
-"# JWTAuthentication.NET6" 
+# JWTAuthentication.NET6
