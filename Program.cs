@@ -1,3 +1,6 @@
+// Tutorial JWT Authentication And Authorization In .NET 6.0 With Identity Framework: 
+// https://www.c-sharpcorner.com/article/jwt-authentication-and-authorization-in-net-6-0-with-identity-framework/
+
 using test2_OAuth2.Auth;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
